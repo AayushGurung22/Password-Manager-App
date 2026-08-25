@@ -17,7 +17,7 @@ const Navbar = () => {
                 <a className='hover:font-bold' href="">Contact</a>
             </li>
             </ul> */}
-            <a href="https://github.com/AayushGurung22">
+            <a href="https://github.com/AayushGurung22/Password-Manager-App.git">
         <button className='text-white bg-green-700 my-5 cursor-pointer flex rounded-full justify-between items-center p-2 ring-white ring-1'>
           <img className='invert p-1 w-10' src="/icons/github.png" alt="github logo" />
           <span className='font-bold px-2'>Github</span>

@@ -122,7 +122,7 @@ Password-Manager-App/
 └── README.md
 
 ```
-🔒 Important: backend/.env should remain local and should not be committed to GitHub.
+> 🔒 Important: backend/.env should remain local and should not be committed to GitHub.
 
 ---
 
